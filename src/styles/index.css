@@ -1,0 +1,27 @@
+
+title {
+  font: 200xp;
+}
+
+body {
+  background-image: url("../images/maggots-1.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+marquee {
+  color: black;
+  font-size: 110px;
+  font-style: oblique;
+  font-weight: 800;
+}
+
+#FaKe_bIrdS:hover {
+  transform: rotate(-500deg);
+  width: 1000px;
+  height: 4000px;
+}
+
+p {
+  font-size: 330px;
+}
